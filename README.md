@@ -33,7 +33,6 @@ This project focuses on classification using machine learning. It includes data 
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
-- (Add yours)
 
 ---
 
