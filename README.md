@@ -6,8 +6,8 @@ This project focuses on classification using machine learning. It includes data 
 ---
 
 ##  Dataset
-- Source: (mention where dataset came from)
-- Description: Brief info about data
+- Source: Kaggle
+- Description: It contains information about different jobs and is used to predict salary based on various factors.
 
 ---
 
