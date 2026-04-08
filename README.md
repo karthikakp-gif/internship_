@@ -8,6 +8,16 @@ This project focuses on classification using machine learning. It includes data 
 ##  Dataset
 - Source: Kaggle
 - Description: It contains information about different jobs and is used to predict salary based on various factors.
+- Factors included:
+            - Job role (job_title)
+            -Experience (experience_years)
+            -Education level (education_level)
+            -Skills (skills_count)
+            -Industry (industry)
+            -Company size (company_size)
+            -Location (location)
+            -Remote work (remote_work)
+            -Certifications (certifications
 
 ---
 
