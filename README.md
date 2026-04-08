@@ -1,4 +1,4 @@
-#  Project Title
+#  Machine learning used in Job salary prediction
 
 ##  Overview
 This project focuses on classification using machine learning. It includes data preprocessing, EDA, feature engineering, and model building.
