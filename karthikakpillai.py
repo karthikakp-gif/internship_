@@ -125,20 +125,3 @@ plt.show()
 
 import pickle
 pickle.dump(best_model, open('model.pkl', 'wb'))
-
-"""Streamlit"""
-
-!pip install streamlit
-import streamlit as st
-import pickle
-import numpy as np
-
-model = pickle.load(open('model.pkl', 'rb'))
-
-st.title('Salary Classification App')
-
-experience = st.number_input('Experience Years')
-
-if st.button('Predict'):
-    prediction = model.predict([[experience]])
-    st.write('Predicted Salary Class:', prediction)
