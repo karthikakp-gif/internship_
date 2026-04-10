@@ -125,5 +125,3 @@ plt.show()
 
 import pickle
 pickle.dump(best_model, open('model.pkl', 'wb'))
-
-!pip install matplotlib
